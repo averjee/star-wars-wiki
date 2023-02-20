@@ -19,5 +19,7 @@
 
 ## Improvements
 
-If I had more time I would have created unit tests for each component.<br/>
-Also I would have added the search functionality.
+If I had more time I would have done the following: <br/>
+1) Created unit tests for each component.<br/>
+2) Added the search functionality.<br/>
+3) Made the app responsive.
